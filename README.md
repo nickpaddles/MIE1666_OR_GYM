@@ -2,6 +2,8 @@ This was a final project completed for the university of torontos MIE1666: Mathe
 
 Using the OR-gym Reinforcement Learning library, we reproduced results for a RF model's peformance in a S,s supply chain problem environment. In short, we demonstrated that an RF agent can performa comeptively with stanard optimization methods simply by learning from the training environment.
 
+Original Contribution Repository: https://github.com/hubbs5/or-gym/tree/master/or_gym
+
 # Key Achievements include
 - Leverage Gemnini to create a wrapper to port legacy code written with Ray 1.x.xx to be compatibel with Ray v2.x.xx
 - Tuning the environment to ensure RF agent can withstand stochastic variance in inputs/outputs
